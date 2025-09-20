@@ -62,9 +62,9 @@ The VPN ensures secure communication between private networks across the public 
 ### 5. **Configure pfSense (On-Premises Simulation)**  
 ![pfSense VPN Tunnel](pfsense.png)
 
-![pfSense VPN Tunnel](pfsense1.png)
-
 ![pfSense VPN Tunnel](pfsense2.png)
+
+![pfSense VPN Tunnel](pfsense1.png)
 📝 Imported AWS VPN config into pfSense and verified tunnels are up.  
 
 ---
